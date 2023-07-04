@@ -1,0 +1,27 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "Virtual Pet Application",
+  "main": "VPApplication",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "jest",
+    "url": "git+https://github.com/PhoebeLMaas/virtual-pet.git"
+  },
+  "keywords": [
+    "Virtual",
+    "Pet",
+    "Simulator"
+  ],
+  "author": "Phoebe L Maas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhoebeLMaas/virtual-pet/issues"
+  },
+  "homepage": "https://github.com/PhoebeLMaas/virtual-pet#readme",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
